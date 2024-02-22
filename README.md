@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### ConceptMath: A Bilingual Concept-wise Benchmark for Measuring Mathematical Reasoning of Large Language Models (WIP)
 <!--
 **conceptmath/conceptmath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
