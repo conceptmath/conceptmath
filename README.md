@@ -51,7 +51,10 @@ Based on our ConcepthMath, we evaluate a broad range of LLMs, and we observe exi
   (a) Concept accuracies on Middle-EN &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp(b) Mean concept accuracies on Middle-EN.
 </p>
 </details>
+
+
 ## ConceptMath
+
 <details>
 <summary>About ConceptMath</summary>
 ConceptMath is a bilingual (English and Chinese), fine-grained benchmark that evaluates concept-wise mathematical reasoning of Large Language Models (LLMs). Unlike traditional benchmarks that evaluate general mathematical reasoning with an average accuracy, ConceptMath systematically organizes math problems under a hierarchy of math concepts, so that mathematical reasoning can be evaluated at different granularity with conceptwise accuracies. 
